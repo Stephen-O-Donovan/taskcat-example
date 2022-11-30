@@ -1,0 +1,21 @@
+-----------------------------------------------------------------------------
+Region: eu-west-1
+StackName: tCaT-taskcat-example-sqs-test-1b54c29c335943e6adc1bf3329b9636a
+*****************************************************************************
+ResourceStatusReason:  
+Stack launch was successful
+*****************************************************************************
+*****************************************************************************
+Events:  
+TimeStamp                         ResourceStatus      ResourceType                LogicalResourceId                                               ResourceStatusReason
+--------------------------------  ------------------  --------------------------  --------------------------------------------------------------  ---------------------------
+2022-11-30 15:59:39.948000+00:00  CREATE_COMPLETE     AWS::CloudFormation::Stack  tCaT-taskcat-example-sqs-test-1b54c29c335943e6adc1bf3329b9636a
+2022-11-30 15:59:38.681000+00:00  CREATE_COMPLETE     AWS::SQS::Queue             MyQueue
+2022-11-30 15:58:27.092000+00:00  CREATE_IN_PROGRESS  AWS::SQS::Queue             MyQueue                                                         Resource creation Initiated
+2022-11-30 15:58:25.448000+00:00  CREATE_IN_PROGRESS  AWS::SQS::Queue             MyQueue
+2022-11-30 15:58:22.331000+00:00  CREATE_IN_PROGRESS  AWS::CloudFormation::Stack  tCaT-taskcat-example-sqs-test-1b54c29c335943e6adc1bf3329b9636a  User Initiated
+*****************************************************************************
+-----------------------------------------------------------------------------
+Tested on: Wednesday, 30. November 2022 04:00PM
+-----------------------------------------------------------------------------
+
